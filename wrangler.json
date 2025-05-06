@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "dry-pond-3f09",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "255ffe63-79d7-4f0d-bef1-ab46bbe83494",
+      "database_name": "holy-wildflower-046d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
